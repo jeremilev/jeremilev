@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I’m currently learning web development
+🔭 I’m currently working on my first website using Github
+👯 I’m looking to collaborate on beginner A.I or Web Dev projects!
 <!--
 **jeremilev/jeremilev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
